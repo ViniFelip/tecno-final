@@ -1,0 +1,37 @@
+.tecnologo{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+}
+
+.fund{
+    background-color: #000;
+    position: fixed;
+    top: 0;
+    
+    width: 100%;
+    height: 41px;
+  
+}
+
+.direita{
+    float: right;
+    margin-right: 15px;
+}
+
+.fund button{
+    background-color: orange;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+
+.fund button:hover{
+    background-color: white;
+    color: black;
+}
+

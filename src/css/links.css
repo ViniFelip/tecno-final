@@ -1,0 +1,49 @@
+.rotas Link:hover{
+    
+    background-color: rgb(10, 7, 0);
+
+
+}
+.linka {
+    /* display: inline-block; */
+    float: right;
+}
+
+.linka:hover .rotas{
+    display: block;
+   
+
+}
+
+.linka:hover .btnlink{
+    
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+.rotas{
+    
+    display: none;
+    position: absolute;
+    background-color: orange;
+    min-width: 100px;
+    
+}
+
+.btnlink{
+    width: 70px;
+    background-color: orange;
+    border-radius: 10px;
+    margin-left: 75px;
+    border: 0;
+    cursor: pointer;
+}
+
+.rotas img{
+    margin-left: 5px;
+    padding: 12px 16px;
+    display: block;
+}
+
+

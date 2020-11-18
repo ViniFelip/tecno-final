@@ -1,0 +1,58 @@
+
+
+.cadastro{
+    /* background-image: url('../img/csbr.jpg'); */
+    width: 450px;
+    height: 450px;
+    border-radius: 30px ;
+    margin-left: 30%;
+    margin-top: 100px ;
+}
+
+.cadastro input{
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 28%;
+    margin-top: 6%;
+    padding: 3px;
+
+}
+
+.cadastro input:hover{
+    background-color: rgb(236, 231, 221);
+    
+}
+
+.cadastro button{
+    width: 100px;
+    background-color: orange;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-top: 70px;
+    
+
+    cursor: pointer;
+
+}
+
+.cadastro button:hover{
+    background-color: rgb(219, 21, 21);
+    color: white;
+    border-radius: 40%;
+}
+
+.telacadastro{
+    background-image: url(../img/csbr.jpg);
+    background-size: cover;
+    width: 100%;
+    opacity: 0.9;
+    
+}
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+.h2{
+    color: white ;
+    font-family: cursive;
+    text-align: center;
+    margin-left: 75px;
+    background:rgb(253, 165, 2) ;
+    border-radius: 15px;
+    width: 350px;
+    
+}
+
+.h2:hover{
+    color: red;
+    
+}
+

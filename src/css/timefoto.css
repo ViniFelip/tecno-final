@@ -1,0 +1,61 @@
+
+
+.editatime{
+    background-color: rgb(236, 135, 53);
+    border: solid 2px wheat;
+    
+}
+
+.editatime img{
+    width: 100px;
+    float: right;
+    
+}
+
+.editatime h3{
+    text-align: center;
+
+}
+
+.editatime p {
+    text-align: center;
+}
+
+.btneditone{
+    padding: 0;
+    margin: 0 15px;
+    width: 100px;
+    background-color: rgb(255, 174, 0);
+    border-radius: 10px;
+    border: solid 2px white;
+    
+}
+
+.btneditone:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(248, 248, 248);
+    border: solid 2px;
+    
+}
+
+.btnedittwo{
+    background-color: red;
+    color: white;
+    width: 100px;
+    border-radius: 10px;
+    border: solid 2px white;
+
+}
+
+.btnedittwo:hover{
+    color: white;
+    background-color: black;
+    
+}
+
+.editatime button{
+    cursor: pointer;
+    
+    
+
+}

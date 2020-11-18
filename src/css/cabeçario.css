@@ -1,0 +1,32 @@
+
+
+.btnsair{
+    
+    float: right;
+    width: 70px;
+    margin-top: 5px;
+    border: 0;
+}
+
+.user{
+    width: 50px;
+    margin-top: 5px;
+    margin-left: 15px;
+    width: 50px;
+    padding: 5px;
+    border-radius: 50%;
+    border: 0;
+}
+
+.user:hover{
+    box-shadow: 0 0 5px 2px rgba(235, 5, 5, 0.904);
+
+}
+
+.bntinicio{
+    width: 70px;
+    float: right;
+    margin-top: 5px;
+    border: 0;
+
+}

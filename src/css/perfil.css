@@ -1,0 +1,39 @@
+.pfphoto{
+    width: 150px;
+    padding: 5px;
+    border-radius: 50%;
+    border: solid 2px rgb(255, 196, 0);
+    align-items: center;
+    margin-top: 100px;
+}
+
+.perfila{
+    padding: 52px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+
+}
+
+.pfphoto:hover{
+    box-shadow: 0 0 7px 2px rgba(235, 5, 5, 0.904);
+
+}
+
+
+
+.meuperfil {
+    text-align: center;
+    background-color: rgb(250, 248, 240);
+    height: 500px;
+    border-radius: 5px;
+    border: solid 5px black;
+    
+
+}
+
+.spanone{
+    text-align: center;
+}
